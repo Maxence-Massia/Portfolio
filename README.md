@@ -42,5 +42,5 @@ GNU/Linux : gérer les utilisateurs et les permissions (authentification, autori
 
 - [Déploiement de logiciels via PSAUM](./Entreprise/Projets_Réaliser/Déploiment_logiciel) : Installation automatisée de logiciels sur les postes utilisateurs.
 - [Gestion des droits d'accès](./Entreprise/Projets_Réaliser/Ajout_Droit_Utilisateur) : Attribution de permissions sur les dossiers réseau via Active Directory.
-- **Préparation de postes pour les nouveaux arrivants** : Configuration et déploiement d'images système avec MECM.
+- [Création d’un environnement Lab Linux avec Ubuntu](./Entreprise/Projets_Réaliser/Lab_Ubuntu_Linux/) : Installation et configuration d'un lab ubuntu linux.
 

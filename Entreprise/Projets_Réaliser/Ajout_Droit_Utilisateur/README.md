@@ -33,3 +33,4 @@ L’accès est sécurisé, centralisé et conforme aux bonnes pratiques de gesti
 - Gestion des **groupes de sécurité et des partages réseau**
 - Rigueur dans la **sécurité des accès** et la documentation des interventions
 - Communication claire avec les utilisateurs pour valider les droits accordés
+
