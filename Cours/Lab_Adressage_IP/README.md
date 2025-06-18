@@ -1,7 +1,7 @@
 # 🌐 TP Réseaux – Adressage, Routage et Dépannage avec Packet Tracer
 
 
-## 📦 TP 1 – Adressage IP et masques CIDR
+## 📦 TP 1 – [Adressage IP et masques CIDR](./4-Lab-Adressage-IP_cidr/)
 
 Ce TP m’a permis de pratiquer l’**adressage IP avancé avec des masques non standards** (CIDR). J’ai configuré les interfaces de routeurs et hôtes dans une topologie à trois réseaux interconnectés. L’exercice m’a aidé à comprendre le calcul des plages d’adresses selon différents masques (/25 à /30) et à assurer la connectivité de bout en bout.
 
@@ -12,7 +12,7 @@ Ce TP m’a permis de pratiquer l’**adressage IP avancé avec des masques non 
 
 ---
 
-## 🧩 TP 2 – Subnetting Scenario
+## 🧩 TP 2 – [Subnetting Scenario](./6-%20Subnetting%20Scenario/)
 
 Ce TP de simulation m’a permis de diviser une adresse réseau en **plusieurs sous-réseaux**, en attribuant une adresse IP, un masque, et une passerelle par défaut à chaque périphérique. J’ai testé et validé la communication entre les différents hôtes et routeurs.
 
@@ -23,7 +23,7 @@ Ce TP de simulation m’a permis de diviser une adresse réseau en **plusieurs s
 
 ---
 
-## 📡 TP 3 – Routage statique
+## 📡 TP 3 – [Routage statique](./5%20Routage_Statique/)
 
 Ce TP m’a permis d’implémenter et de dépanner des **routes statiques** entre plusieurs routeurs. Après avoir identifié des problèmes de connectivité, j’ai utilisé les commandes `show ip route`, `ping` et `traceroute` pour diagnostiquer et corriger les erreurs.
 
@@ -34,7 +34,7 @@ Ce TP m’a permis d’implémenter et de dépanner des **routes statiques** ent
 
 ---
 
-## 🚧 TP 4 – Dépannage de la passerelle par défaut
+## 🚧 TP 4 – [Dépannage de la passerelle par défaut](./11%20default-gateway/)
 
 Dans cette activité, j’ai dû identifier et corriger des erreurs de configuration des **passerelles par défaut** sur des hôtes et des commutateurs. Le TP m’a appris à appliquer une méthode de dépannage structurée (analyse, correction, test).
 
@@ -55,7 +55,7 @@ Dans cette activité, j’ai dû identifier et corriger des erreurs de configura
 
 ---
 
-## 🧪 TP 5 – Intégration complète d’un réseau (Skills Integration Challenge)
+## 🧪 TP 5 – [Intégration complète d’un réseau (Skills Integration Challenge)](./8%20Challenge-route/)
 
 Ce TP m’a permis de **configurer un réseau complet** intégrant plusieurs technologies étudiées précédemment : VLAN, routage, DHCP, passerelles et serveurs. J’ai configuré les routeurs et commutateurs, affecté les VLANs aux ports, attribué des IP dynamiques et vérifié la connectivité de bout en bout.
 
@@ -67,7 +67,7 @@ Ce TP m’a permis de **configurer un réseau complet** intégrant plusieurs tec
 
 ---
 
-## 🧩 TP 6 – Troubleshooting de routes statiques
+## 🧩 TP 6 – [Troubleshooting de routes statiques](./9%20Static%20Routes/)
 
 Ce TP visait à détecter et corriger les **erreurs de routage statique** dans une topologie Cisco. Grâce aux commandes de diagnostic (`ping`, `traceroute`, `show ip route`), j’ai localisé les erreurs (routes manquantes, mal configurées ou interfaces désactivées) et mis en œuvre les corrections nécessaires.
 
@@ -76,13 +76,3 @@ Ce TP visait à détecter et corriger les **erreurs de routage statique** dans u
 - Correction d’erreurs de configuration réseau
 - Validation de la connectivité entre tous les segments
 
----
-
-## 🚨 TP 7 – Résolution de pannes sur les passerelles (default gateway)
-
-Dans ce TP, j’ai travaillé sur un scénario de **panne réseau liée à une mauvaise configuration des passerelles par défaut**. À travers des tests `ping`, des vérifications d’adressage et des analyses de la topologie, j’ai identifié les erreurs (passerelles mal attribuées, interfaces down) et corrigé la configuration sur les équipements clients et d’infrastructure.
-
-### ✅ Objectifs atteints
-- Analyse d’erreurs d’adressage IP et de passerelles
-- Rétablissement de la connectivité réseau
-- Application d’une **méthode de dépannage réseau systématique**
