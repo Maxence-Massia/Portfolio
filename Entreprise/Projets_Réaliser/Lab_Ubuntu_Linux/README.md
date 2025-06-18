@@ -2,7 +2,7 @@
 
 ## 🛠️ Contexte
 
-Dans le cadre de ma montée en compétences en administration système, j’ai mis en place un **environnement de lab sous Linux** en installant la dernière version d’**Ubuntu Server**. Cet environnement m’a permis de m’exercer régulièrement à l’utilisation de commandes systèmes, à la configuration de services, et à l’exploration de l’architecture Linux.
+Dans le cadre de ma montée en compétences en administration système, j’ai mis en place un **environnement de lab sous Linux** en installant la dernière version d’**Ubuntu**. Cet environnement m’a permis de m’exercer régulièrement à l’utilisation de commandes systèmes, à la configuration de services, et à l’exploration de l’architecture Linux.
 
 ## 📌 Objectif du lab
 
@@ -23,7 +23,7 @@ Chaque VM pourra être configurée pour simuler une **architecture réseau profe
 
 ## ✅ Résultat
 
-Grâce à ce lab, je dispose d’un environnement personnel pour expérimenter sans risque, tester des configurations avancées, et **gagner en autonomie sur Linux**. Ce travail me permet également de mieux comprendre les mécanismes internes des serveurs que j’administre ou dépanne en entreprise.
+Grâce à cet environnement virtuel, je dispose d’un espace personnel pour expérimenter sans risque, tester des configurations avancées et **gagner en autonomie sur Linux**. L’objectif à terme est de développer mes compétences en gestion d’une architecture réseau d’entreprise basée sur Linux.
 
 ---
 

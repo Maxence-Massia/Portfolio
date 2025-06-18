@@ -26,22 +26,21 @@ Lors de ma formation à la DIRISI, j’ai acquis une expertise en administration
 - Participation à une formation approfondie sur les [outils administrateurs du SDK](./Entreprise/formation_outils)
 - Développement de compétences en gestion des infrastructures informatiques
 
-### 🏅 **Certifications**
 
-- [SecNumAcad (ANSSI)](./Cours/Certification)  : Certification obtenue auprès de l’Agence nationale de la sécurité des systèmes d’information, attestant des connaissances fondamentales en cybersécurité.
-
-## :page_facing_up: Réalisation professionnel
+## :page_facing_up: Réalisation en cours de formation
 - [Lab DATA-Integrity](./Cours/Lab_DATA-Integrity) : Vérification de l'intégrité des données et mise en place de procédures pour garantir la fiabilité des informations.
 - [Lab Test de Performance](./Cours/Lab_Test_de_Performance) : Tests des performances de l’ordinateur (CPU, réseau, mémoire) afin d’identifier les points d’amélioration.
-- [Lab Assembleur](./Cours/Lab_Assembleur) : Découverte et utilisation du langage assembleur pour comprendre le fonctionnement bas niveau des machines.
-- [Certification CCNA](./Cours/Certification_CCNA/) : modules proposés par la **Cisco Networking Academy (CNA)**.
-- [Lab Gnu-Linux](./Cours/Lab_GNU_Linux) :
-GNU/Linux : gérer les utilisateurs et les permissions (authentification, autorisation), à partitionner, formater et monter des disques, à configurer des quotas disque pour contrôler l'espace alloué, ainsi qu'à créer et manipuler des liens symboliques et physiques.
+- [Lab Assembleur](./Cours/Lab_Assembleur) : Découverte et utilisation du langage assembleur pour avoir un aperçu du langage bas niveau des machines.
+- [Certification CCNA](./Cours/Certification_CCNA/) : modules proposés par la **Cisco Certified Network Associate(CCNA)**.
+- [Certification LPIC](./Cours/Certification_LPIC/) : GNU/Linux : gérer les utilisateurs et les permissions (authentification, autorisation), à partitionner, formater et monter des disques, à configurer des quotas disque pour contrôler l'espace alloué, ainsi qu'à créer et manipuler des liens symboliques et physiques.
 - [Lab Adressage-IP](./Cours/Lab_Adressage_IP/) : adressage IP avec CIDR, subnetting, routage statique, intégration d’un réseau complet, et dépannage de passerelles et routes pour assurer la connectivité entre sous-réseaux.
 
-## 📁 Réalisation en cours de formation
+## 📁 Réalisation professionnel 
 
 - [Déploiement de logiciels via PSAUM](./Entreprise/Projets_Réaliser/Déploiment_logiciel) : Installation automatisée de logiciels sur les postes utilisateurs.
 - [Gestion des droits d'accès](./Entreprise/Projets_Réaliser/Ajout_Droit_Utilisateur) : Attribution de permissions sur les dossiers réseau via Active Directory.
 - [Création d’un environnement Lab Linux avec Ubuntu](./Entreprise/Projets_Réaliser/Lab_Ubuntu_Linux/) : Installation et configuration d'un lab ubuntu linux.
 
+### 🏅 **Certifications**
+
+- [SecNumAcad (ANSSI)](./Cours/Certification)  : Certification obtenue auprès de l’Agence nationale de la sécurité des systèmes d’information, attestant des connaissances fondamentales en cybersécurité.
