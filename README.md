@@ -32,7 +32,7 @@ Lors de ma formation à la DIRISI, j’ai acquis une expertise en administration
 - [Lab Test de Performance](./Cours/Lab_Test_de_Performance) : Tests des performances de l’ordinateur (CPU, réseau, mémoire) afin d’identifier les points d’amélioration.
 - [Lab Assembleur](./Cours/Lab_Assembleur) : Découverte et utilisation du langage assembleur pour avoir un aperçu du langage bas niveau des machines.
 - [Certification CCNA](./Cours/Certification_CCNA/) : modules proposés par la **Cisco Certified Network Associate(CCNA)**.
-- [Certification LPIC](./Cours/Certification_LPIC/) : GNU/Linux : gérer les utilisateurs et les permissions (authentification, autorisation), à partitionner, formater et monter des disques, à configurer des quotas disque pour contrôler l'espace alloué, ainsi qu'à créer et manipuler des liens symboliques et physiques.
+- [Certification LPIC](./Cours/Certification_LPIC/) : modules proposer par la **Certification Linux Professional Institute**  : gérer les utilisateurs et les permissions (authentification, autorisation), à partitionner, formater et monter des disques, à configurer des quotas disque pour contrôler l'espace alloué, ainsi qu'à créer et manipuler des liens symboliques et physiques.
 - [Lab Adressage-IP](./Cours/Lab_Adressage_IP/) : adressage IP avec CIDR, subnetting, routage statique, intégration d’un réseau complet, et dépannage de passerelles et routes pour assurer la connectivité entre sous-réseaux.
 
 ## 📁 Réalisation professionnel 
