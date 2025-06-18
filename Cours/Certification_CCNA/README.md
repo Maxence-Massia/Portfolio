@@ -18,7 +18,7 @@ Ce premier TP visait à configurer une **adresse IP de gestion** sur un commutat
 
 ## 🔄 TP 2 – Réinitialisation d’un routeur Cisco (mode ROMMON)
 
-Ce TP m’a permis d’apprendre à **réinitialiser un routeur Cisco 1900** en cas d’oubli du mot de passe d’administration. En accédant au mode **ROMMON**, j’ai modifié le registre de configuration pour démarrer sans charger la configuration existante, puis réinitialisé le mot de passe, rechargé la config et sauvegardé les modifications.
+Ce TP m’a permis d’apprendre à **réinitialiser un routeur Cisco 1900** en cas d’oubli du mot de passe d’administration. En accédant au mode **ROMMON**,
 
 ### ✅ Étapes principales
 - Accès au mode ROMMON via une combinaison de touches (`Ctrl + Break`).
@@ -26,15 +26,6 @@ Ce TP m’a permis d’apprendre à **réinitialiser un routeur Cisco 1900** en 
 - Redémarrage (`reset`), reconfiguration et restauration avec `copy startup-config running-config`.
 - Sauvegarde finale avec `write memory` et redémarrage (`reload`).
 
----
-
-## 🧠 Compétences mobilisées
-
-- Configuration et sécurisation d’un **commutateur Cisco**
-- Utilisation des **interfaces console** pour accéder à des équipements réseau
-- Réinitialisation et dépannage d’un **routeur Cisco** en mode ROMMON
-- Maîtrise des **commandes IOS** de base (Cisco CLI)
-- Compréhension du fonctionnement des **adresses de gestion réseau** et de l’accès distant
 
 ## 🧩 TP 3 – Configuration initiale d’un commutateur Cisco
 
@@ -56,11 +47,4 @@ Cette configuration a ensuite été appliquée à un second commutateur (S2), en
 - Mise en place d’une **bannière de sécurité** pour l’environnement CLI
 - Sauvegarde de la configuration dans la NVRAM
 
----
 
-## 🧠 Compétences renforcées
-
-- Sécurisation des accès sur un **switch Cisco** (console, enable, VTY)
-- Personnalisation du périphérique (hostname, MOTD)
-- Utilisation des commandes fondamentales de configuration en **IOS**
-- Sauvegarde et chiffrement de la configuration
