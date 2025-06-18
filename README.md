@@ -34,9 +34,10 @@ Lors de ma formation à la DIRISI, j’ai acquis une expertise en administration
 - [Lab DATA-Integrity](./Cours/Lab_DATA-Integrity) : Vérification de l'intégrité des données et mise en place de procédures pour garantir la fiabilité des informations.
 - [Lab Test de Performance](./Cours/Lab_Test_de_Performance) : Tests des performances de l’ordinateur (CPU, réseau, mémoire) afin d’identifier les points d’amélioration.
 - [Lab Assembleur](./Cours/Lab_Assembleur) : Découverte et utilisation du langage assembleur pour comprendre le fonctionnement bas niveau des machines.
-- [Certification CNA](./Cours/Certification_CNA/) : modules proposés par la **Cisco Networking Academy (CNA)**.
+- [Certification CCNA](./Cours/Certification_CNA/) : modules proposés par la **Cisco Networking Academy (CNA)**.
 - [Lab Gnu-Linux](./Cours/Lab_GNU_Linux) :
 GNU/Linux : gérer les utilisateurs et les permissions (authentification, autorisation), à partitionner, formater et monter des disques, à configurer des quotas disque pour contrôler l'espace alloué, ainsi qu'à créer et manipuler des liens symboliques et physiques.
+- [Lab Adressage-IP](./Cours/Lab_Adressage_IP/) : adressage IP avec CIDR, subnetting, routage statique, intégration d’un réseau complet, et dépannage de passerelles et routes pour assurer la connectivité entre sous-réseaux.
 
 ## 📁 Projets réalisés en entreprise
 
