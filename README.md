@@ -33,7 +33,7 @@ Lors de ma formation à la DIRISI, j’ai acquis une expertise en administration
 - [Lab Assembleur](./Cours/Lab_Assembleur) : Découverte et utilisation du langage assembleur pour avoir un aperçu du langage bas niveau des machines.
 - [Certification CCNA](./Cours/Certification_CCNA/) : modules proposés par la **Cisco Certified Network Associate (CCNA)**.
 - [Certification LPIC](./Cours/Certification_LPIC/) : modules proposer par la **Certification Linux Professional Institute (LPIC)**
-- [Lab Adressage-IP](./Cours/Lab_Adressage_IP/) : adressage IP avec CIDR, subnetting, routage statique, intégration d’un réseau complet, et dépannage de passerelles et routes pour assurer la connectivité entre sous-réseaux.
+- [Lab Adressage-IP](./Cours/Lab_Adressage_IP/) : adressage IP avec CIDR, subnetting, routage statique et dépannage de passerelles et routes pour assurer la connectivité entre sous-réseaux.
 
 ## 📁 Réalisation professionnel 
 

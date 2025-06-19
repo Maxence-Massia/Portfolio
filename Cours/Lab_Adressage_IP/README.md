@@ -53,21 +53,8 @@ Dans cette activité, j’ai dû identifier et corriger des erreurs de configura
 - Analyse et correction de **problèmes de connectivité**
 - Utilisation professionnelle de **Packet Tracer**
 
----
 
-## 🧪 TP 5 – [Intégration complète d’un réseau (Skills Integration Challenge)](./8%20Challenge-route/)
-
-Ce TP m’a permis de **configurer un réseau complet** intégrant plusieurs technologies étudiées précédemment : VLAN, routage, DHCP, passerelles et serveurs. J’ai configuré les routeurs et commutateurs, affecté les VLANs aux ports, attribué des IP dynamiques et vérifié la connectivité de bout en bout.
-
-### ✅ Objectifs atteints
-- Configuration d’un **réseau multi-services** dans Packet Tracer
-- Affectation d’**IP statiques et dynamiques**
-- Connexions fonctionnelles entre tous les sous-réseaux
-- Simulation d’un réseau d’entreprise de niveau réel
-
----
-
-## 🧩 TP 6 – [Troubleshooting de routes statiques](./9%20Static%20Routes/)
+## 🧩 TP 5 – [Troubleshooting de routes statiques](./9%20Static%20Routes/)
 
 Ce TP visait à détecter et corriger les **erreurs de routage statique** dans une topologie Cisco. Grâce aux commandes de diagnostic (`ping`, `traceroute`, `show ip route`), j’ai localisé les erreurs (routes manquantes, mal configurées ou interfaces désactivées) et mis en œuvre les corrections nécessaires.
 
