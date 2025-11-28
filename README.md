@@ -42,7 +42,7 @@ Lors de ma formation à la DIRISI, j’ai acquis une expertise en administration
 - [Déploiement de logiciels via PSAUM](./Entreprise/Projets_Réaliser/Déploiment_logiciel) : Installation automatisée de logiciels sur les postes utilisateurs.
 - [Gestion des droits d'accès](./Entreprise/Projets_Réaliser/Ajout_Droit_Utilisateur) : Attribution de permissions sur les dossiers réseau via Active Directory.
 - [Création d’un environnement Lab Linux avec Ubuntu](./Entreprise/Projets_Réaliser/Lab_Ubuntu_Linux/) : Installation et configuration d'un lab ubuntu linux.
-- [Déploiment Windows 11](./Entreprise/Projets_Réaliser/Déploiment_W11/Entreprise) : Déploiment de Windows 11 sur parc informatique
+- [Déploiment Windows 11](./Entreprise/Projets_Réaliser/Déploiment_W11/) : Déploiment de Windows 11 sur parc informatique
 
 ### 🏅 **Certifications**
 
