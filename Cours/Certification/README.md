@@ -1,11 +1,15 @@
-# 🛡️ Certification MOC – Méthodologie d’Opérations de Contrôle (ANSSI)
+# MOOC ANSSI – Présentation
 
-La certification **MOC** délivrée par l’**ANSSI** (Agence nationale de la sécurité des systèmes d'information) est une référence en matière de **cybersécurité et d’évaluation des systèmes d’information**. Elle forme aux bonnes pratiques de vérification, de contrôle et d’analyse des infrastructures numériques.
+Le MOOC est une formation en ligne ouverte à tous, conçue pour permettre à chacun d’acquérir les bases de la cybersécurité.  
+Il s’agit d’un parcours pédagogique structuré, accessible gratuitement, qui aborde les notions essentielles nécessaires pour comprendre et protéger un système d’information.
 
-## 🎯 Objectifs pédagogiques
-- Comprendre les **principes fondamentaux de la sécurité des systèmes d'information** selon les standards de l'État.
-- Maîtriser la **Méthodologie d’Opérations de Contrôle** (MOC) pour analyser les risques, les vulnérabilités et la conformité d’un SI.
-- Savoir appliquer une **démarche rigoureuse de contrôle et d’investigation** sur les équipements informatiques.
-- Développer une approche structurée pour la **détection, la traçabilité et la gestion des incidents de sécurité**.
+## 🎯 Ce que permet le MOOC
 
-Cette certification valorise des compétences essentielles pour intervenir dans des environnements sensibles et contribue à **renforcer la posture de sécurité** des organisations publiques ou privées.
+- Découvrir les concepts fondamentaux de la sécurité informatique.  
+- Comprendre les risques, les menaces et les bonnes pratiques à adopter.  
+- Apprendre à sécuriser les usages numériques du quotidien.  
+- Développer une première culture de cybersécurité applicable aussi bien en milieu professionnel que personnel.
+
+## ✔ Intérêt du MOOC
+
+Ce MOOC (Massive open online course) constitue une première étape solide pour toute personne souhaitant se former à la cybersécurité, renforcer ses connaissances ou adopter de meilleures pratiques de protection numérique.
