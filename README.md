@@ -14,7 +14,7 @@ Lors de ma formation à la DIRISI, j’ai acquis une expertise en administration
 
 ### 🖥️ **Déploiement et gestion des logiciels**
 - [PSAUM](./Entreprise/formation_outils/PSAUM) : Installation à distance des logiciels
-- [MECM (Microsoft Endpoint Configuration Manager)](.Entreprise/formation_outils/MECM) : Déploiement et mise à jour
+- [MECM (Microsoft Endpoint Configuration Manager)](./Entreprise/formation_outils/MECM/) : Déploiement et mise à jour
 - [SCCM (System Center Configuration Manager)](./Entreprise/formation_outils/SCCM) : Installation et gestion des logiciels
 
 ### 🆘 **Support et résolution de problèmes**
