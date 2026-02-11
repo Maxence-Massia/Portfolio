@@ -42,6 +42,10 @@ Lors de ma formation à la DIRISI, j’ai acquis une expertise en administration
 - [Création d’un environnement Lab Linux avec Ubuntu](./Entreprise/Projets_Réaliser/Lab_Ubuntu_Linux/) : Installation et configuration d'un lab ubuntu linux.
 - [Déploiment Windows 11](./Entreprise/Projets_Réaliser/Déploiment_W11/) : Déploiment de Windows 11 sur parc informatique
 
+## 🏢 Projet Infrastructure M2L
+
+- [Infrastructure de M2](/Infrastructure_M2L/)
+
 ### 🏅 **Certifications**
 
 - [SecNumAcad (ANSSI)](./Cours/Certification)  : Certification obtenue auprès de l’Agence nationale de la sécurité des systèmes d’information, attestant des connaissances fondamentales en cybersécurité.
