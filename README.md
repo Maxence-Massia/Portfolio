@@ -32,8 +32,8 @@ Lors de ma formation à la DIRISI, j’ai acquis une expertise en administration
 - [Lab Test de Performance](./Cours/Lab_Test_de_Performance) : Tests des performances de l’ordinateur (CPU, réseau, mémoire) afin d’identifier les points d’amélioration.
 - [Lab Assembleur](./Cours/Lab_Assembleur) : Découverte et utilisation du langage assembleur pour avoir un aperçu du langage bas niveau des machines.
 - [Lab Vlan](./Cours/Lab_Vlan) : Création, Configuration et dépannage de Vlan. 
-- [Certification CCNA](./Cours/Certification_CCNA/) : modules proposés par la **Cisco Certified Network Associate (CCNA)**.
-- [Certification LPIC](./Cours/Certification_LPIC/) : modules proposer par la **Certification Linux Professional Institute (LPIC)**
+- [Lab Cisco](./Cours/Lab_Cisco/) : Ensemble des Lab Cisco packet tracer
+- [Lab Linux](./Cours/Lab_Linux/) : Ensemble des lab linux
 - [Lab Adressage-IP](./Cours/Lab_Adressage_IP/) : adressage IP avec CIDR, subnetting, routage statique et dépannage de passerelles et routes pour assurer la connectivité entre sous-réseaux.
 - [Lab Redondance-réseau-UCARP](./Cours/Lab_Redondance_UCARP/) : mise en place d’une redondance réseau avec UCARP, configuration d’une IP virtuelle partagée, installation et synchronisation des nœuds master/slave, déploiement de pages Apache2 pour vérifier la bascule, et tests de pour assurer la continuité de service en cas de panne.
 
