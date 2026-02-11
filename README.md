@@ -44,7 +44,7 @@ Lors de ma formation à la DIRISI, j’ai acquis une expertise en administration
 
 ## 🏢 Projet Infrastructure M2L
 
-- [Infrastructure de M2](/Infrastructure_M2L/)
+- [Infrastructure de M2L](/Infrastructure_M2L/) : conception et la mise en place d’une infrastructure réseau et serveurs pour la Maison des Ligues de Lorraine (M2L)
 
 ### 🏅 **Certifications**
 
