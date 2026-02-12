@@ -2,7 +2,7 @@
 
 ## 📌 Présentation du projet
 
-Dans le cadre de ma formation en **BTS SIO option SISR**, je réalise la conception et la mise en place d’une infrastructure réseau et serveurs pour la **Maison des Ligues de Lorraine (M2L)**.
+Dans le cadre de ma formation en **BTS SIO option SISR**, je réalise la conception et la mise en place d’une infrastructure réseau **Maison des Ligues de Lorraine (M2L)**.
 
 Cette infrastructure simule un environnement d’entreprise complet permettant d’héberger plusieurs services virtualisés, avec segmentation réseau, routage, Wi-Fi sécurisé et supervision.
 
@@ -21,28 +21,24 @@ Cette infrastructure simule un environnement d’entreprise complet permettant d
 
 DHCP :
 - Service : `isc-dhcp-server`
-- Distribution IP : plage 10 à 253
+- Distribution IP : plage 11 à 253
 - DNS fournis : Google DNS
 
 ---
 
 # 🔀 Routeur – Dell Optiplex 7010
 
-- OS : Ubuntu Server
-- Interface interne : `enp2s0`
+- OS : Ubuntu Desktop
 - IP : `172.16.3.254`
-- Utilisateur : `equipe3`
-- Mot de passe : `claupe`
 
 ## Rôle :
 
 - Routage réseau interne
-- NAT (iptables – masquerade)
 - IP forwarding activé
 - DHCP interne
 - Connexion au réseau école
 
-Le routeur permet aux machines virtuelles et aux clients Wi-Fi d’accéder à Internet via le réseau de l’école.
+Le routeur permet aux machines virtuelles et aux différent équipement d'accéder à Internet via le réseau de l’école.
 
 ---
 
@@ -54,8 +50,6 @@ Le routeur permet aux machines virtuelles et aux clients Wi-Fi d’accéder à I
 - 4 disques
 - RAID 0
 - IP : `172.16.3.1`
-- Mot de passe root : `louvre0`
-- Interface virtuelle : `vmbr0` reliée à NIC1
 
 ### Distributions disponibles :
 - Ubuntu Server
@@ -69,7 +63,7 @@ Le routeur permet aux machines virtuelles et aux clients Wi-Fi d’accéder à I
 - 2 disques
 - RAID 5
 - IP : `172.16.3.2`
-- Mot de passe root : `louvres0`
+
 
 ⚠️ Version Proxmox plus ancienne utilisée car la dernière version ne détectait pas le RAID 0 (compatibilité matérielle).
 
@@ -111,7 +105,6 @@ Couleurs utilisées dans la maquette :
 
 - Alimenté via PoE (Power Over Ethernet)
 - SSID : `equipe3`
-- Mot de passe : `equipe03`
 - Sécurité : WPA avec clé pré-partagée
 - Chiffrement : AES
 - Canal automatique (least-congested)
