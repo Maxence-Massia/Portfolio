@@ -4,7 +4,7 @@
 
 Dans le cadre de ma formation en **BTS SIO option SISR**, je réalise la conception et la mise en place d’une infrastructure réseau **Maison des Ligues de Lorraine (M2L)**.
 
-Cette infrastructure simule un environnement d’entreprise complet permettant d’héberger plusieurs services virtualisés, avec segmentation réseau, routage, Wi-Fi sécurisé et supervision.
+Cette infrastructure simule un environnement d’entreprise complet permettant d’héberger plusieurs machines virtuels, routage et supervision.
 
 ⚠️ L’infrastructure constitue le socle technique. Les projets (monitoring et autres) sont hébergés dessus mais ne font pas partie de son fonctionnement de base.
 
