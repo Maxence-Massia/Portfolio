@@ -1,0 +1,11 @@
+main:
+  - title: "Accueil"
+    url: /
+  - title: "Projets"
+    url: /projets/
+  - title: "Labs Linux"
+    url: /labs-linux/
+  - title: "Labs Cisco"
+    url: /labs-cisco/
+  - title: "Veille"
+    url: /veille/
