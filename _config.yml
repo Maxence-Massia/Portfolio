@@ -1,0 +1,15 @@
+title: "Portfolio BTS SIO – Maxence Massia"
+description: "BTS SIO option SISR – Projets, labs, veille et compétences"
+url: "https://maxence-massia.github.io"
+baseurl: "/Portfolio"
+
+remote_theme: "mmistakes/minimal-mistakes"
+minimal_mistakes_skin: "default"   # options sympa: "dark", "air", "neon"
+search: true
+
+plugins:
+  - jekyll-include-cache
+
+author:
+  name: "Maxence Massia"
+  bio: "BTS SIO SISR"
