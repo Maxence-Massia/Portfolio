@@ -1,8 +1,10 @@
 # :clipboard: BTS SIO Option SISR
-alternant au poste SDK au Ministère Des Armée
+alternant au poste CNAD au Ministère Des Armée
 
-Je suis étudiant en première année de BTS SIO, option SISR, à H3 Campus à Poissy. Actuellement en alternance au Ministère des Armées au poste de Service Desk (SDK), ce portfolio présente mes projets réalisés en entreprise et à l'école, ainsi que les compétences développées pour mener à bien ces projets 
+Je suis étudiant en dernière année de BTS SIO, option SISR, à H3 Campus à Poissy. Actuellement en alternance au Ministère des Armées au poste de Service Desk, ce portfolio présente mes projets réalisés en entreprise et à l'école, ainsi que les compétences développées pour mener à bien ces projets 
 
+## 💼 Entreprise
+Le commissariat au numérique de défense (CND) incarne la transformation numérique du ministère des Armées. Il fédère les expertises, pilote les grands projets numériques et renforce l’attractivité des métiers du numérique au service de la défense. [En savoir plus](/Entreprise/) 
 ## 🛠️ Compétences
 
 Lors de ma formation à la DIRISI, j’ai acquis une expertise en administration système, gestion des utilisateurs et déploiement de logiciels. Voici un aperçu des outils et technologies que j’ai utilisés :
@@ -39,7 +41,6 @@ Lors de ma formation à la DIRISI, j’ai acquis une expertise en administration
 
 - [Déploiement de logiciels via PSAUM](./Entreprise/Projets_Réaliser/Déploiment_logiciel) : Installation automatisée de logiciels sur les postes utilisateurs.
 - [Gestion des droits d'accès](./Entreprise/Projets_Réaliser/Ajout_Droit_Utilisateur) : Attribution de permissions sur les dossiers réseau via Active Directory.
-- [Création d’un environnement Lab Linux avec Ubuntu](./Entreprise/Projets_Réaliser/Lab_Ubuntu_Linux/) : Installation et configuration d'un lab ubuntu linux.
 - [Déploiment Windows 11](./Entreprise/Projets_Réaliser/Déploiment_W11/) : Déploiment de Windows 11 sur parc informatique
 
 ## 🏢 Projet Infrastructure M2L

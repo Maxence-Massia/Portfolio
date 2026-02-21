@@ -6,7 +6,6 @@ Dans le cadre de ma formation en **BTS SIO option SISR**, je réalise la concept
 
 Cette infrastructure simule un environnement d’entreprise complet permettant d’héberger plusieurs machines virtuels, routage et supervision.
 
-⚠️ L’infrastructure constitue le socle technique. Les projets (monitoring et autres) sont hébergés dessus mais ne font pas partie de son fonctionnement de base.
 
 ---
 
@@ -123,6 +122,54 @@ Les hyperviseurs permettent de créer plusieurs VM :
 - Windows 11 25H2 (environnement client / tests)
 
 Les VM sont connectées au bridge `vmbr0` et intégrées au réseau interne 172.16.3.0/24.
+
+
+# 📊 Projet Monitoring – Supervision de l’infrastructure
+
+## 🎯 Présentation
+
+Dans le cadre de l’infrastructure M2L, un projet de supervision est en cours de mise en place afin de surveiller l’état des machines et des services.
+
+Ce projet est hébergé sur une machine virtuelle Linux située sur le serveur **PVE1 (Dell PowerEdge R520)**.
+
+---
+
+## ⚙️ Solution mise en place
+
+La solution repose sur deux outils open source :
+
+- **Prometheus** → collecte des métriques système
+- **Grafana** → visualisation des données et tableaux de bord
+
+---
+
+## 🖥️ Architecture du monitoring
+
+- VM Linux hébergée sur **PVE1**
+- Installation de :
+  - Prometheus (serveur de collecte)
+  - Grafana (interface web de visualisation)
+  - Node Exporter sur la machine Linux supervisée
+
+Le node exporter permet de récupérer les informations système telles que :
+
+- utilisation CPU
+- consommation RAM
+- espace disque
+- charge système
+- métriques réseau
+
+Ces données sont collectées par Prometheus puis affichées sous forme de graphiques dans Grafana.
+
+---
+
+## 📡 Évolution prévue
+
+Une extension du projet est envisagée afin de superviser :
+
+- les équipements réseau (switch, routeur, point d’accès)
+- les hyperviseurs Proxmox
+- les autres machines virtuelles
 
 ---
 
