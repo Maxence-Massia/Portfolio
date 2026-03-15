@@ -22,7 +22,7 @@ Exercice de configuration IP sur un inter-réseau utilisant des masques de sous-
 
 ---
 
-### 📁 [Tracer-Routage_Statique](/Cours/Lab_Cisco/Base_Cisco/5-Lab-Packet Tracer-Routage_Statique)
+### 📁 [Tracer-Routage_Statique](Cours/Lab_Cisco/Base_Cisco/5-Lab-Packet_Tracer-Routage_Statique/5-Lab-Packet_Tracer-Routage_Statique/Routage_Statique)
 
 TP d'initiation à l'architecture réseau permettant de configurer manuellement les tables de routage sur des routeurs Cisco 1941. Il comprend la définition des routes statiques pour interconnecter plusieurs réseaux locaux et la vérification de l'algorithme de décision de routage.
 
